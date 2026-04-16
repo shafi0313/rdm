@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rda.edu.bd/sitemap.xml
+Host: https://rda.edu.bd/
