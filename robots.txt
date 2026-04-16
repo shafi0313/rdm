@@ -1,4 +1,5 @@
+# Allow all crawlers (recommended explicit allow-all)
 User-agent: *
-Allow: /
+Disallow:
+
 Sitemap: https://rda.edu.bd/sitemap.xml
-Host: https://rda.edu.bd/
